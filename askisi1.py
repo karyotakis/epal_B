@@ -1,6 +1,6 @@
 # askisi 1
-k = 5
-y = 5
-if k == 8:
-    x = 5*k
-print k
+K = 5
+Y = 5
+if K == 8:
+    X = 5 * K
+print K
